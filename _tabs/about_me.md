@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Me"
+icon: fas fa-user
 permalink: /about_me/
 ---
 
@@ -40,4 +41,4 @@ When I’m not writing code or exploring new AI models, you’ll probably find m
 
 ---
 
-Feel free to explore my [projects](/projects) or [blog](/posts) to learn more about what I'm working on. Let's connect and create something meaningful together!
+Feel free to explore my [projects](/portfolio) or [blog](/blog) to learn more about what I'm working on. Let's connect and create something meaningful together!
