@@ -2,8 +2,6 @@
 layout: post
 title: "Why I Love AI & Machine Learning"
 date: 2025-06-22
-categories: [AI, ML]
-tags: [personal, getting started, curiosity, machine learning]
 ---
 
 When I first heard about **machine learning**, it felt like magic — code that could _learn_ from data? Models that could make predictions, recognize faces, or generate human-like text? I was hooked.

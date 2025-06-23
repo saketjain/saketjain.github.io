@@ -147,6 +147,22 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+navigation:
+  - title: About
+    url: /about/
+
+  - title: Blog
+    url: /blog/
+
+  - title: Projects
+    url: /projects/
+
+  - title: Roadmap
+    url: /roadmap/
+
+  - title: Contact
+    url: /contact/
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -212,7 +228,7 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: []
   layouts:
     category: category
     tag: tag
