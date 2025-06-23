@@ -3,6 +3,7 @@ layout: page
 title: "About Me"
 icon: fas fa-user
 permalink: /about_me/
+order: 5
 ---
 
 # 👋 Hi, I'm Saket Jain
