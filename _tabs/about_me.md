@@ -6,13 +6,13 @@ permalink: /about_me/
 order: 5
 ---
 
-# 👋 Hi, I'm Saket Jain
+# Hi, I'm Saket Jain
 
 I'm a technologist with a passion for building high-performance, scalable systems. I enjoy turning complex problems into elegant, efficient solutions—whether it's in financial systems, healthcare platforms, or real-time trading engines.
 
 ---
 
-## 💡 What I Do
+## What I Do
 
 - Design and build large-scale distributed systems
 - Architect real-time trading and payment platforms
@@ -22,7 +22,7 @@ I'm a technologist with a passion for building high-performance, scalable system
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - **Artificial Intelligence** – I love diving into neural networks, computer vision, and building from scratch (YOLO, OCR, etc.)
 - **Stock Markets** – Quantitative analysis, algo trading, backtesting strategies, and portfolio analytics
@@ -31,7 +31,7 @@ I'm a technologist with a passion for building high-performance, scalable system
 
 ---
 
-## 🎮 Hobbies
+## Hobbies
 
 When I’m not writing code or exploring new AI models, you’ll probably find me:
 
