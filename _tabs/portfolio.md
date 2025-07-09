@@ -8,10 +8,13 @@ Welcome to my AI/ML portfolio! Here's a selection of the projects I've worked on
 
 ---
 
-### 🖼️ Automatic Number Plate Recognition (ANPR)
+### 🖼️ Automatic Traffic Rules Violation Detection
 **Tech:** Python, OpenCV, Tesseract OCR  
 **Description:** Built a real-time ANPR system to detect and extract vehicle license plates from video feeds. Integrated image pre-processing, contour detection, and OCR.  
 🔗 [View Code](https://github.com/your-username/anpr-project)
+<p align="center">
+  <img src="/assets/img/BlackCar.png" alt="Traffic Rule Violation" width="400"/>
+</p>
 
 ---
 
