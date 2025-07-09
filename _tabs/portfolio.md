@@ -9,26 +9,30 @@ Welcome to my AI/ML portfolio! Here's a selection of the projects I've worked on
 ---
 
 ### Automatic Traffic Rules Violation Detection
-**Tech:** Python, OpenCV, Tesseract OCR  
-**Description:** Built a real-time ANPR system to detect and extract vehicle license plates from video feeds. Integrated image pre-processing, contour detection, and OCR.  
-🔗 [View Code](https://github.com/saketjain/ai_portfolio/tree/develop/traffic_rules_violation_detection)
-<p align="center">
-  <img src="/assets/img/BlackCar.png" alt="Traffic Rule Violation" width="400"/>
+**Tech:** Python, YOLO, OpenCV, Tesseract OCR  
+**Description:** A real-time AI system that automatically detects vehicles violating red lights and extracts their registration numbers from license plates using computer vision. 
+
+[View Code](https://github.com/saketjain/ai_portfolio/tree/develop/traffic_rules_violation_detection)
+<p>
+  <img src="/assets/img/BlackCar.png" alt="Traffic Rule Violation" width="800"/>
 </p>
 
 ---
 
-### YOLOv8 Custom Object Detection
+### Tax Form OCR
 **Tech:** PyTorch, Ultralytics YOLOv8, LabelImg  
-**Description:** Trained a YOLOv8 model to detect raccoons using a custom-labeled dataset. Implemented anchor box tuning, mAP evaluation, and non-max suppression.  
-🔗 [View Notebook](https://github.com/your-username/yolov8-raccoon)
+**Description:** Demonstrates automated extraction of text from scanned tax forms. The solution aligns a scanned form image with a clean template, performs OCR using Tesseract, and post-processes the text to clean and structure the output.
 
+[View Code](https://github.com/your-username/yolov8-raccoon)
+<p align="left">
+  <img src="/assets/img/FormOCR.png" alt="Form 16 OCR" hieight="800"/>
+</p>
 ---
 
 ### Algorithmic Trading Framework
 **Tech:** Python, MongoDB, Plotly  
 **Description:** Developed a modular backtesting engine for positional trading. Supports multiple strategies, performance tracking (Sortino, PnL), and daily portfolio views.  
-🔗 [Live Demo](https://github.com/saketjain/algo_trading)
+🔗 [View Code](https://github.com/saketjain/algo_trading)
 
 ---
 
