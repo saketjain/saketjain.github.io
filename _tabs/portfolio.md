@@ -36,9 +36,9 @@ Welcome to my AI/ML portfolio! Here's a selection of the projects I've worked on
 
 ---
 
-### Text Detection with EAST
-**Tech:** TensorFlow, OpenCV  
+### Text and Object Detection with Keras and OpenCV
+**Tech:** TensorFlow, Keras, OpenCV, Pytessract 
 **Description:** Implemented a text detection model based on the EAST architecture. Combined bounding box regression with classification for text spotting in natural scenes.  
-[Explore](https://github.com/your-username/east-text-detector)
+[Explore](https://github.com/saketjain/deeplearning)
 
 ---
