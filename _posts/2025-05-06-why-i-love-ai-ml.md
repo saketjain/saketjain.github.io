@@ -32,7 +32,7 @@ But more than anything, I’m just trying to stay curious.
 
 I believe in learning by doing. Whether it’s building a proof-of-concept, automating a daily task, or experimenting with a new framework — I think every small project adds up to something meaningful.
 
-This blog will be my space to share those learnings — the wins, the struggles, and the lightbulb moments.
+This blog will be my space to share those learnings — the wins, the struggles, and the lightbulb moments
 
 ---
 
