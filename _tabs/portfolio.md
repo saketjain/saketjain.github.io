@@ -29,23 +29,16 @@ Welcome to my AI/ML portfolio! Here's a selection of the projects I've worked on
 </p>
 ---
 
-### Algorithmic Trading Framework
+### Algo Trading Framework
 **Tech:** Python, MongoDB, Plotly  
 **Description:** Developed a modular backtesting engine for positional trading. Supports multiple strategies, performance tracking (Sortino, PnL), and daily portfolio views.  
-🔗 [View Code](https://github.com/saketjain/algo_trading)
+[View Code](https://github.com/saketjain/algo_trading)
 
 ---
 
 ### Text Detection with EAST
 **Tech:** TensorFlow, OpenCV  
 **Description:** Implemented a text detection model based on the EAST architecture. Combined bounding box regression with classification for text spotting in natural scenes.  
-🔗 [Explore](https://github.com/your-username/east-text-detector)
-
----
-
-### 📊 Stock Market Volume Screener
-**Tech:** Python, Pandas, MongoDB  
-**Description:** Built a screener to identify stocks with unusually high trading volumes and price breakouts. Automated daily insights using technical indicators.  
-🔗 [Check Repo](https://github.com/your-username/stock-volume-analyzer)
+[Explore](https://github.com/your-username/east-text-detector)
 
 ---
