@@ -1,7 +1,6 @@
 ---
 title: "Hyperparameter Tuning in Machine Learning"
 date: 2025-06-05
-tags: [machine learning, hyperparameters, model optimization, deep learning]
 description: Learn what hyperparameters are, why they matter, and how to optimize them using methods like grid search, random search, and Bayesian optimization.
 ---
 

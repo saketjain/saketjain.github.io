@@ -1,7 +1,6 @@
 ---
 title: "Model Quantization: Shrinking AI Models for the Real World"
 date: 2025-07-12
-tags: [quantization, machine learning, LLM, optimization, deployment]
 description: Learn how model quantization reduces the size and speeds up deep learning models, making large language models like LLaMA and GPT more deployable on edge devices.
 ---
 

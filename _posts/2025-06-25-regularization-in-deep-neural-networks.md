@@ -1,7 +1,6 @@
 ---
 title: "Regularization in Deep Neural Networks"
 date: 2025-06-25
-tags: [deep learning, regularization, overfitting, neural networks]
 description: Understand the role of regularization techniques in preventing overfitting and improving generalization in deep neural networks.
 ---
 
