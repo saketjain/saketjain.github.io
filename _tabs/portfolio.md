@@ -20,7 +20,7 @@ Welcome to my AI/ML portfolio! Here's a selection of the projects I've worked on
 ---
 
 ### Tax Form OCR
-**Tech:** PyTorch, Ultralytics YOLOv8, LabelImg  
+**Tech:** Keras, Tensorflow, OpenCV, PyTessaract  
 **Description:** Demonstrates automated extraction of text from scanned tax forms. The solution aligns a scanned form image with a clean template, performs OCR using Tesseract, and post-processes the text to clean and structure the output.
 
 [View Code](https://github.com/saketjain/ai_portfolio/tree/develop/document_scanning_ocr)
