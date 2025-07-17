@@ -35,10 +35,9 @@ I'm a technologist with a passion for building high-performance, scalable system
 
 When I’m not writing code or exploring new AI models, you’ll probably find me:
 
-- Building games and interactive projects on TurboWarp/Scratch
-- Tinkering with microcontrollers like Micro:bit for fun electronics projects
 - Writing technical blogs to share my learnings
 - Sketching out startup ideas in the AI and CV space
+- Tinkering with microcontrollers like Micro:bit for fun electronics projects along with my son
 
 ---
 
